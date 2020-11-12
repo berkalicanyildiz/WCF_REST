@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="geri_sayim_apiModelStoreContainer" CdmEntityContainer="geri_sayim_apiEntities">
+    <EntitySetMapping Name="Geri_Sayimlar">
+      <EntityTypeMapping TypeName="geri_sayim_apiModel.Geri_Sayimlar">
+        <MappingFragment StoreEntitySet="Geri_Sayimlar">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Color" ColumnName="Color" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

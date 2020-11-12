@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService_REST", "WcfService_REST\WcfService_REST.csproj", "{1300488A-6A17-4434-B8B6-B98DE2BC3B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Rest_Test", "WCF_Rest_Test\WCF_Rest_Test.csproj", "{86DE429B-6693-4948-9E28-9322B957DB35}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1300488A-6A17-4434-B8B6-B98DE2BC3B89} = {1300488A-6A17-4434-B8B6-B98DE2BC3B89}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1300488A-6A17-4434-B8B6-B98DE2BC3B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1300488A-6A17-4434-B8B6-B98DE2BC3B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1300488A-6A17-4434-B8B6-B98DE2BC3B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1300488A-6A17-4434-B8B6-B98DE2BC3B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DE429B-6693-4948-9E28-9322B957DB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DE429B-6693-4948-9E28-9322B957DB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DE429B-6693-4948-9E28-9322B957DB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DE429B-6693-4948-9E28-9322B957DB35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45C0B644-A0DA-4A39-B31D-97177CDFD2DB}
+	EndGlobalSection
+EndGlobal

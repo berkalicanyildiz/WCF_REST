@@ -1,0 +1,13 @@
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\bin\WcfService_REST.dll.config
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\bin\WcfService_REST.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\bin\WcfService_REST.pdb
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\bin\EntityFramework.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\bin\EntityFramework.SqlServer.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\bin\Newtonsoft.Json.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\bin\EntityFramework.xml
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\bin\EntityFramework.SqlServer.xml
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\bin\Newtonsoft.Json.xml
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\obj\Debug\WcfService_REST.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\obj\Debug\WcfService_REST.csproj.CopyComplete
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\obj\Debug\WcfService_REST.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService_REST\WcfService_REST\obj\Debug\WcfService_REST.pdb
